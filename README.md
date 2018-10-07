@@ -1,4 +1,4 @@
-My own collection of functions.
+Handy R functions. 
 
 ### Reference
 
